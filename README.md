@@ -1,2 +1,2 @@
-# -
-学术部入门资料
+# Getting Started in Academic
+
